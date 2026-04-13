@@ -7,6 +7,7 @@ title: About
 
 **Postdoctoral Researcher**  
 Academy of Advanced Interdisciplinary Research (AAIR)  
+Guangzhou Institute of Technology (GIT)  
 Xidian University, Xi'an, China
 
 ---
