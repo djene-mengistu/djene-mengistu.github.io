@@ -69,7 +69,7 @@ My research has been published in **IEEE Transactions on Industrial Informatics 
 - **GitHub**: [github.com/djene-mengistu](https://github.com/djene-mengistu)  
 - **Latest Paper Code**: [STAC Repository](https://github.com/djene-mengistu/STAC)  
 - **Email**: djene.mengistu@gmail.com  
-- **CV**: [Download PDF](/cv)
+- **📄 Download CV (PDF)**: [/Dejene_Mengistu_CV.pdf](/Dejene_Mengistu_CV.pdf)
 
 ---
 
