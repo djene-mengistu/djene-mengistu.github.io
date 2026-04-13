@@ -86,12 +86,21 @@ Adama Science and Technology University & Mekelle University, Ethiopia
 
 ## 🔬 Research Interests
 
-- Weakly/Semi-supervised Learning for Industrial Inspection  
-- Transformer-based Vision Models & Attention Mechanisms  
-- Pixel-level Contrastive Learning  
-- Anomaly Detection and Defect Localization  
 - Vision-Language Models for Industrial Applications  
 - Scalable AI Deployment in Smart Manufacturing
+- Intelligent/smart manufacturing solutions
+- Intelligent equipment and robotics
+- Machine vision and deep learning applications in industry
+- Semi-supervised and unsupervised deep learning methods
+- Vision-Language Foundation Models
+- LLM and agentic modeling for industrial solutions 
+- Industrial robotic perception and visual control
+- Automated industrial inspection, anomaly detection, pattern recognition, and fault diagnosis
+- Digital manufacturing, human-machine collaboration
+- Intelligent machine fault diagnosis and prediction
+- Intelligent transportations, Vision based guidance (AGVs) 
+- Medical image segmentation and analysis
+- Computational optimization and system analysis
 
 ---
 
