@@ -22,16 +22,21 @@ A novel weakly supervised framework for industrial defect localization. Combines
 - [GitHub Repository](https://github.com/djene-mengistu/STAC)
 
 ---
+### 🚀 Semi-supervised segmentation framework designed for real-world industrial surface defect detection
+**SimEps: Published in IEEE Transactions on Industrial Informatics (TII), 2022**
+**UAPS: Published in Computers in Industry (CI), 2023**
+**Links:**
+- [simEps - View Paper](https://ieeexplore.ieee.org/document/9994033)
+- [UAPS - View Paper](https://www.sciencedirect.com/science/article/pii/S0166361523001458)
+- [simEps - GitHub Repository](https://github.com/djene-mengistu/simEps)
+- [UAPS - GitHub Repository](https://github.com/djene-mengistu/UAPS)
 
-### 🛠️ Industrial Defect Segmentation System
-
-Semi-supervised segmentation framework designed for real-world industrial surface defect detection.
+### 🛠️ CNN-Transformer Hybrid Segmentation Model for Industrial Defect Segmentation
 
 - Uses transformer encoder + CNN decoder architecture  
 - Multi-scale feature fusion and boundary-aware refinement  
 - Achieved high performance on steel surface defect datasets (NEU-Seg & SSDD)
-
-**GitHub:** [dseg_models](https://github.com/djene-mengistu/dseg_models)
+- [dseg-models - GitHub Repository](https://github.com/djene-mengistu/dseg_models)
 
 ---
 
@@ -41,11 +46,8 @@ I am currently working on several new projects in the areas of:
 - Vision-Language Models for industrial inspection
 - Anomaly detection in complex manufacturing environments
 - Lightweight models for edge deployment
+- Semantic reasoning and Chain-of-Thought (CoT)
+- Multimodal approaches and generalization
 
 ---
 
-Would you like me to add any other projects or make any changes to this version?
-
-Just say the word and I’ll revise it immediately.  
-
-You can now copy-paste this directly into your `projects.md` file. It looks clean and professional on GitHub Pages.
