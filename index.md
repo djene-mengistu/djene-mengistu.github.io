@@ -5,7 +5,7 @@ title: Home
 
 <div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 50px;">
   <img src="/asset/djm.jpg" alt="Dejene Mengistu Sime"
-       style="width: 120px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);">
+       style="width: 200px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);">
 
   <div style="flex: 1; min-width: 300px;">
     <h1 style="margin: 0 0 10px 0; font-size: 2.4em;">Dejene Mengistu Sime, PhD</h1>
