@@ -3,12 +3,20 @@ layout: home
 title: Home
 ---
 
-# Dejene Mengistu Sime, PhD
+<div style="display: flex; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 50px;">
+  <img src="/asset/djm.jpg" alt="Dejene Mengistu Sime"
+       style="width: 120px; border-radius: 16px; box-shadow: 0 8px 20px rgba(0,0,0,0.12);">
 
-**Postdoctoral Researcher**  
-Academy of Advanced Interdisciplinary Research (AAIR)  
-Guangzhou Institute of Technology (GIT)
-Xidian University, Xi'an, China
+  <div style="flex: 1; min-width: 300px;">
+    <h1 style="margin: 0 0 10px 0; font-size: 2.4em;">Dejene Mengistu Sime, PhD</h1>
+    <p style="font-size: 1.35em; color: #333; margin-bottom: 20px;">
+      <strong>Postdoctoral Researcher</strong><br>
+      Academy of Advanced Interdisciplinary Research (AAIR)<br>
+      Guangzhou Institute of Technology (GIT)<br>
+      Xidian University, Xi'an, China
+    </p>
+  </div>
+</div>
 
 ---
 
@@ -22,7 +30,8 @@ My research has been published in **IEEE Transactions on Industrial Informatics 
 
 ## 🔥 Featured Publication
 
-**STAC: Saliency-Guided Transformer Attention with Pixel-Level Contrastive Learning for Weakly Supervised Defect Localization**  
+**STAC: Saliency-Guided Transformer Attention with Pixel-Level Contrastive Learning for Weakly Supervised Defect Localization**
+
 *IEEE Transactions on Industrial Informatics (TII), 2026*
 
 - Proposes a novel framework combining saliency-guided transformer attention and pixel-level contrastive learning  
@@ -41,7 +50,7 @@ My research has been published in **IEEE Transactions on Industrial Informatics 
 - Pixel-level Contrastive Learning  
 - Anomaly Detection & Automated Inspection Systems  
 - Vision-Language Models and Foundation Models for Industry  
-- Scalable AI Deployment in Manufacturing Environments
+- Scalable AI Deployment in Manufacturing Environments  
 
 ---
 
@@ -49,7 +58,7 @@ My research has been published in **IEEE Transactions on Industrial Informatics 
 
 - **Sime et al. (2026)** – STAC (IEEE TII)  
 - **Sime et al. (2022)** – Semi-Supervised Defect Segmentation with Pairwise Similarity (IEEE TII)  
-- **Sime et al. (2023)** – Uncertainty-aware Pseudo Labels for Defect Segmentation (Computers in Industry)
+- **Sime et al. (2023)** – Uncertainty-aware Pseudo Labels for Defect Segmentation (Computers in Industry)  
 
 *(Full list available in CV)*
 
