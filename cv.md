@@ -6,7 +6,8 @@ title: CV
 # Dejene Mengistu Sime, PhD
 
 **Postdoctoral Researcher**  
-Academy of Advanced Interdisciplinary Research (AAIR)  
+Academy of Advanced Interdisciplinary Research (AAIR) 
+Guangzhou Institute of Technology (GIT)
 Xidian University, Xi'an, China  
 
 **Email:** djene.mengistu@gmail.com  
@@ -22,7 +23,7 @@ Computer vision researcher with **6+ years** of experience in machine learning a
 
 ## 🎓 Education
 
-- **PhD in Mechanical Engineering (Computer Vision Track)**  
+- **PhD in Mechanical Engineering (Computer Vision and Intelligent Equipment Track)**  
   University of Electronic Science and Technology of China (UESTC), Chengdu, China  
   *July 2023*  
   Dissertation: Deep Learning-based Machine Vision for Automated Defect Segmentation
@@ -102,7 +103,6 @@ Computer Vision, Deep Learning, Semantic Segmentation, Weakly Supervised Learnin
 
 - **Email**: djene.mengistu@gmail.com  
 - **GitHub**: [github.com/djene-mengistu](https://github.com/djene-mengistu)  
-- **Google Scholar / ResearchGate**: Available upon request
 
 ---
 
