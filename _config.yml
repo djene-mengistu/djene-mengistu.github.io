@@ -1,8 +1,9 @@
 title: Dejene Mengistu Sime
-description: AI Researcher | Industrial Machine Vision
+description: AI Researcher | Industrial Machine Vision | Deep Learning Systems
 theme: minima
 
 header_pages:
   - about.md
+  - research.md
   - projects.md
   - cv.md
