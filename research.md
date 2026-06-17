@@ -27,6 +27,13 @@ My research focuses on **semantic segmentation and industrial AI systems**, part
 - Bridge and civil structure visual inspection and condition assesment
 - Road and pavement assesment and inspection
 - Robust real-world deployment
+---
+
+### 3. Foundation Models
+- Large Vision Foundation Models (SAM2)
+- Vision-Language Models (CLIP, gDINO, LLaVA)
+- LLM Agents
+- Multimodal foundation models
 
 ---
 ## Broad Research Interest
