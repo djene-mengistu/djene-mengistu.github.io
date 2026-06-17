@@ -22,6 +22,20 @@ A novel weakly supervised framework for industrial defect localization. Combines
 - [GitHub Repository](https://github.com/djene-mengistu/STAC)
 
 ---
+### 🚀 ProMSC: Cross-Sample Prototype Matching and Multiscale Spatial Correlation Consistency
+**Published in Expert Systems With Applications (ESWA), 2026**
+
+A novel semisupervised learning approaches that combines the cross learning between labeled and unlabeled samples at feature map level.
+
+- Cross sample protype level learning  
+- Spatial correlation matching   
+- Correlation enhaced pseudo label filtering
+
+**Links:**
+- [View Paper](https://www.sciencedirect.com/science/article/pii/S095741742602213X?via=ihub)
+- [GitHub Repository](https://github.com/djene-mengistu/ProMSC) 
+
+---
 ### 🚀 Semi-supervised segmentation framework designed for real-world industrial surface defect detection
 **SimEps: Published in IEEE Transactions on Industrial Informatics (TII), 2022**
 **UAPS: Published in Computers in Industry (CI), 2023**
