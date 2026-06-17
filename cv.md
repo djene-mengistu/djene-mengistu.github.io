@@ -80,7 +80,8 @@ Xidian University, Xi'an, China
 
 **Lecturer** (2013 – 2019)  
 Adama Science and Technology University & Mekelle University, Ethiopia  
-- Taught courses in Operations Research, Optimization, and CAD-CAM  
+- Taught courses in Operations Research (Deterministic and Stochastic Models), Engineering Optimization
+- Probability Theory, Linear / Integer Programming, Dynamic Programming, Markov Chain  
 - Mentored over 60 undergraduate students on final-year theses
 
 ---
