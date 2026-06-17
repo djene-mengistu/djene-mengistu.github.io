@@ -42,29 +42,30 @@ Computer vision researcher with **6+ years** of experience in machine learning a
 
 **Journal Papers and Conferences**
 
-1. **Dejene M. Sime**, Nan Ouyang, Kai Sheng, Getu T. Fellek, Wan Wenkang, Adnan A. Qaseem, Xiaojiang Ren, and Shehui Bu, “Saliency-Guided Transformer Attention with Pixel-Level Contrastive Learning for Weakly Supervised Defect Localization,” IEEE Transactions on Industrial Informatics, January, 2026. 
+1. **Dejene M. Sime**, Nan Ouyang, Kai Sheng, Getu T. Fellek, Wan Wenkang, Adnan A. Qaseem, Xiaojiang Ren, and Shehui Bu, “Saliency-Guided Transformer Attention with Pixel-Level Contrastive Learning for Weakly Supervised Defect Localization,” IEEE Transactions on Industrial Informatics, January, 2026.
+2. **Dejene M. Sime**, Ouyang Nan, Adnan A. Qaseem, Yiting Liu, Xiaojiang Ren, and Kai Sheng, “Cross-Sample Prototype Matching and Multiscale Spatial Correlation Consistency for Defect Segmentation Under Limited Annotations”, Expert Systems with Applications, June, 2026.  
 
-2. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, Wei Wang, and Bei Peng, “Semi-Supervised Defect Segmentation with Pairwise Similarity Map Consistency and Ensemble-Based Cross-Pseudo Labels,” IEEE Transactions on Industrial Informatics, pp. 9535–9545, V.19-9, 2022.  
+3. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, Wei Wang, and Bei Peng, “Semi-Supervised Defect Segmentation with Pairwise Similarity Map Consistency and Ensemble-Based Cross-Pseudo Labels,” IEEE Transactions on Industrial Informatics, pp. 9535–9545, V.19-9, 2022.  
 
-3. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Uncertainty-aware and dynamically-mixed pseudo labels for semi-supervised defect segmentation,” Computers in Industry, pp.103995, V.152, 2023.
+4. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Uncertainty-aware and dynamically-mixed pseudo labels for semi-supervised defect segmentation,” Computers in Industry, pp.103995, V.152, 2023.
 
-4. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Deep learning-based automated steel surface defect segmentation: a comparative experimental study” Multimedia Tools Applications, pp. 2995-3018, V.83, 2023.
+5. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Deep learning-based automated steel surface defect segmentation: a comparative experimental study” Multimedia Tools Applications, pp. 2995-3018, V.83, 2023.
 
-5. Wenkang Wan, Kai Sheng, Qing Cai, Lei Ao, Nan Ouyang, Haoxuan Feng & **Dejene M. Sime**, “Enhanced tire road friction coefficient estimation through interacting multiple model design based on tire force observation”, NonLinear Dynamics, January 2025.
+6. Wenkang Wan, Kai Sheng, Qing Cai, Lei Ao, Nan Ouyang, Haoxuan Feng & **Dejene M. Sime**, “Enhanced tire road friction coefficient estimation through interacting multiple model design based on tire force observation”, NonLinear Dynamics, January 2025.
 
-6. Adnan A. Qaseem, Lei Ao, Kai Sheng, **Dejene M. Sime**, Qing Cai, Jianzhao Li and Xiaojiang Ren, “DSTIFormer: Vehicle Trajectory Prediction Considering Dynamic Spatial-Temporal Interaction-aware with Transformer Network”, IEEE Transactions on Vehicular Technology, September 2025.
+7. Adnan A. Qaseem, Lei Ao, Kai Sheng, **Dejene M. Sime**, Qing Cai, Jianzhao Li and Xiaojiang Ren, “DSTIFormer: Vehicle Trajectory Prediction Considering Dynamic Spatial-Temporal Interaction-aware with Transformer Network”, IEEE Transactions on Vehicular Technology, September 2025.
 
-7. Nan Ouyang, Xiaojiang Ren, Wenkang Wan, **Dejene M. Sime**, Qing Cai, Kai Sheng, “A Distributed Lightweight Edge Traffic Spatio-Temporal Forecasting Framework with Regional Autonomy and Global Feature Generation”, SSRN 6192959, ArXix, 2026.
+8. Nan Ouyang, Xiaojiang Ren, Wenkang Wan, **Dejene M. Sime**, Qing Cai, Kai Sheng, “A Distributed Lightweight Edge Traffic Spatio-Temporal Forecasting Framework with Regional Autonomy and Global Feature Generation”, SSRN 6192959, ArXix, 2026.
 
-8. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Semi-supervised Defect Segmentation with Uncertainty-aware Pseudo-labels from Multibranch Network”, In 5th International Conference on Image Processing and Machine Vision (IPMV) (IPMV 2023), January 13–15, 2023, Macau, China. ACM, New York, NY, USA.  
+9. **Dejene M. Sime**, Guotai Wang, Zhi Zeng, and Bei Peng, “Semi-supervised Defect Segmentation with Uncertainty-aware Pseudo-labels from Multibranch Network”, In 5th International Conference on Image Processing and Machine Vision (IPMV) (IPMV 2023), January 13–15, 2023, Macau, China. ACM, New York, NY, USA.  
 
-9. Daihan Wang, Yongyi Chen, XiaoJie Mao, Kai Sheng, Dejene M. Sime*, Balakrishnan Ramalingam, Chengsheng Miao and Shehui Bu, "Lightweight Design of YOLOv5s Object Detection Architecture for Roadside Edge Devices in Autonomous Driving" in 17th International Conference on Machine Learning and Computing (ICMLC 2025), Guangzhou, China on February 14-17, 2025.
+10. Daihan Wang, Yongyi Chen, XiaoJie Mao, Kai Sheng, Dejene M. Sime*, Balakrishnan Ramalingam, Chengsheng Miao and Shehui Bu, "Lightweight Design of YOLOv5s Object Detection Architecture for Roadside Edge Devices in Autonomous Driving" in 17th International Conference on Machine Learning and Computing (ICMLC 2025), Guangzhou, China on February 14-17, 2025.
 
-10. Adnan A. Qaseem, Kai Sheng, Dejene M. Sime*, Hifza Aurangzeb, Shehui Bu, Balakrishnan Ramalingam, "ST-GAN: Spatial-Temporal Graph Attention Network for Traffic Prediction" in the 10th International Conference on Computer and Communication Systems (ICCCS 2025), Chengdu, China on April 18-21, 2025.
+11. Adnan A. Qaseem, Kai Sheng, Dejene M. Sime*, Hifza Aurangzeb, Shehui Bu, Balakrishnan Ramalingam, "ST-GAN: Spatial-Temporal Graph Attention Network for Traffic Prediction" in the 10th International Conference on Computer and Communication Systems (ICCCS 2025), Chengdu, China on April 18-21, 2025.
 
-11. Adnan A. Qaseem, Kai Sheng, Dejene M. Sime*, and Eshetie B. Atanaw, “Spatial-Temporal Dynamic Features Fusion Graph-Transformer Network for Traffic Flow Prediction”, in the 5th Asia Conference on Algorithms, Computing and Machine Learning (CACML2026), March 27 – 29, 2026, Guangzhou, China.
+12. Adnan A. Qaseem, Kai Sheng, Dejene M. Sime*, and Eshetie B. Atanaw, “Spatial-Temporal Dynamic Features Fusion Graph-Transformer Network for Traffic Flow Prediction”, in the 5th Asia Conference on Algorithms, Computing and Machine Learning (CACML2026), March 27 – 29, 2026, Guangzhou, China.
 
-12. Wei Jin, Qifeng Xie, Wenkang Wan, Lei Ao, **Dejene M. Sime**, Kai Sheng, “A comparative study of DRL-based autonomous driving under single-vehicle and human-vehicle-road coordination”, In International Conference on Automation, Robotics and Computer Engineering (ICARCE 2023), December 14–16, 2023, Wuhan, China.  
+13. Wei Jin, Qifeng Xie, Wenkang Wan, Lei Ao, **Dejene M. Sime**, Kai Sheng, “A comparative study of DRL-based autonomous driving under single-vehicle and human-vehicle-road coordination”, In International Conference on Automation, Robotics and Computer Engineering (ICARCE 2023), December 14–16, 2023, Wuhan, China.  
 *(Full publication list available upon request)*
 
 ---
